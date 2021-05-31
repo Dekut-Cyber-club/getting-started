@@ -25,39 +25,39 @@
 ## Things to learn:
 ### Installing kali linux(Choose one)
 	
-```
-- Creating a bootable flash disk(Installing kali linux in flashdisk)(Beginners)
-	https://[link](www.youtube.com/watch?v=BsuJvMkH-eE)
-	[link](https://www.youtube.com/watch?v=IEAMopVfw30)
-	[link](https://www.youtube.com/watch?v=pT73r1obOhI)
-- Installing kali linux in a virtual machine(choose either)(Intermediate)
-	[link](https://www.youtube.com/watch?v=ZXlDkMC9N34)
-	[link](https://www.youtube.com/watch?v=V_Payl5FlgQ)
-- Installing kali together with windows(Intermediate)
-	[link](https://www.youtube.com/watch?v=BRk71KypnBg)
-	[link](https://www.youtube.com/watch?v=DRhuVxaBuKU)
-	[link](https://www.youtube.com/watch?v=sll0raD7C48)
-- Installing kali linux as the main operating system(for advanced users)
-```
+
+- Creating a bootable flash disk(Installing kali linux in flashdisk)(Beginners)<br>
+	🐧: [How To Install Kali Linux On A Flash Drive - 2020 (2021 Update In Description)](www.youtube.com/watch?v=BsuJvMkH-eE)<br>
+	🐧: [How To Install Kali Linux on USB Flash Drive | Full Guide](https://www.youtube.com/watch?v=IEAMopVfw30)<br>
+	🐧: [How To Install And Run Kali Linux](https://www.youtube.com/watch?v=pT73r1obOhI)<br>
+- Installing kali linux in a virtual machine(choose either)(Intermediate)<br>
+	🐧: [How to Install Kali Linux 2021.1 on VirtualBox On Windows (2021) (Kali Linux for Beginners 2021)](https://www.youtube.com/watch?v=ZXlDkMC9N34)<br>
+	🐧: [How to Install Kali Linux 2020.1b in VirtualBox on Windows 10](https://www.youtube.com/watch?v=V_Payl5FlgQ)<br>
+- Installing kali together with windows(Intermediate)<br>
+	🐧: [How to Dual Boot Kali Linux 2020.3 and Windows 10 ( EASY WAY )](https://www.youtube.com/watch?v=BRk71KypnBg)<br>
+	🐧: [Dual boot Kali Linux 2020.1a with Windows 10 | Easy Step](https://www.youtube.com/watch?v=DRhuVxaBuKU)<br>
+	🐧: [How to Dual Boot Kali Linux 2021.1 and Windows 10 (Safest Way) | Kali Linux 2021.1 Tutorials](https://www.youtube.com/watch?v=sll0raD7C48)<br>
+- Installing kali linux as the main operating system(for advanced users)<br>
+
 
 ### Learning how to use the terminal(choose either)
-```
-	[link](https://www.youtube.com/watch?v=yz7nYlnXLfE)
-	[link](https://www.youtube.com/watch?v=s3ii48qYBxA)
-```
+
+- Command line guides:<br>
+	🐧: [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)<br>
+	🐧: [Beginner's Guide To The Linux Terminal](https://www.youtube.com/watch?v=s3ii48qYBxA)<br>
 
 ### Learning how to program in python
-```
-	[link](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-```
+- Python guide:<br>
+	🐧: [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)<br>
 
 ### Learning git/github(OPTIONAL)
-```
-	[link](https://www.youtube.com/watch?v=RGOj5yH7evk)
-	[link](https://www.youtube.com/watch?v=8JJ101D3knE)
-```
+- Git guide:<br>
+	🐧: [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)<br>
+	🐧: [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)<br>
 
-### Cybersecurity Categories (https://www.youtube.com/watch?v=vI79qT4lcfA)
+
+### [Cybersecurity Categories](https://www.youtube.com/watch?v=vI79qT4lcfA)
+```
 - Binary exploitation
 - Reverse engineering
 - Web exploitation
@@ -66,8 +66,10 @@
 - Forensics 
 - Steganography
 - Red Teaming(Active Directory etc.)
+```
 
 ### Choosing another programming language depending on the cybersecurity category to pursue(optional)
+```
 - Binary exploitation - python,c,c++,assembly
 - Reverse engineering - python,c,c++,java,assembly etc
 - Web exploitation - python,php,javascript,mysql,html,css
@@ -75,6 +77,7 @@
 - Network Security - python
 - Forensics(Disk,memory,etc)  - python
 - Steganography - python
+```
 
 ### Resources
 ```
@@ -108,25 +111,25 @@ overthewire.com
 pentester academy or (securitytube)
 ```
 ### Videos I recommend
-```
-Why cybersecurity is hard
-	[link](https://www.youtube.com/watch?v=vI79qT4lcfA)
-How To Learn Hacking With CTFs
-	[link](https://www.youtube.com/watch?v=Lus7aNf2xDg)
-Learning python
-	[link](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-Learning C++
-	[link](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-Learning Java
-	[link](https://www.youtube.com/watch?v=eIrMbAQSU34)
-Learning Javascript
-	[link](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-	https://www.youtube.com/watch?v=PFmuCDHHpwk (Object oriented javascript)
-Learning php
-	https://[link](www.youtube.com/watch?v=OK_JCtrrv-c)
-Learning html
-	[link](https://www.youtube.com/watch?v=qz0aGYrrlhU)
-```
+
+- [Why cybersecurity is hard](https://www.youtube.com/watch?v=vI79qT4lcfA)
+
+- [How To Learn Hacking With CTFs](https://www.youtube.com/watch?v=Lus7aNf2xDg)
+
+- [Learning python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+- [Learning C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
+- [Learning Java](https://www.youtube.com/watch?v=eIrMbAQSU34)
+
+- [Learning Javascript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+	
+- [Object Oriented Javascript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+
+- [Learning php](www.youtube.com/watch?v=OK_JCtrrv-c)
+
+- [Learning html](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+
 
 ### Youtube channels to follow
 ```
