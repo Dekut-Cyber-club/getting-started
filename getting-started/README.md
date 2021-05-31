@@ -14,8 +14,8 @@
     - An understanding of how systems work.
 
 3.The following skills are essential as far as cybersecurity training is concerned:
-    Basic knowledge of operating systems: Since you will work on the installation of malware(on your own devices) in a computer system, understanding architecture, and operating systems management is paramount.
-    Mastery of programming languages: Understanding programming language including C/C++, Java or other scripting languages like Python and PHP gives you an added edge over the other security professionals.
+    Basic knowledge of operating systems: Since you will work with various operating systems, understanding architecture, and use of operating systems is paramount.
+    Knowledge of programming: Understanding programming languages including C/C++, Java or other scripting languages like Python and PHP gives you an added edge over the other security professionals.
     Computer networking basics: Understanding network protocols such as IP Addressing, subnetting, and how they work will help you in natural learning of cybersecurity.
     Web application technologies: A sound exposure in these applications and how they work will be a great asset in helping you learn cybersecurity.
 ```
@@ -150,7 +150,7 @@ Learning html
 Incase of any questions or issues,consult me or any official.
 Contributions are encouraged
 ```
-[twitter](https://twitter.com/xubzer0)
-[github](https://twitter.com/xubzero)
+- [MY-twitter](https://twitter.com/xubzer0)
+- [MY-github](https://twitter.com/xubzero)
 
 GOOD LUCK!!
