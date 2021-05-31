@@ -56,7 +56,8 @@
 	🐧: [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)<br>
 
 
-### [Cybersecurity Categories](https://www.youtube.com/watch?v=vI79qT4lcfA)
+### Cybersecurity Categories
+- [Cybersecurity categories in detail](https://www.youtube.com/watch?v=vI79qT4lcfA)
 ```
 - Binary exploitation
 - Reverse engineering
@@ -133,19 +134,19 @@ pentester academy or (securitytube)
 
 ### Youtube channels to follow
 ```
-	liveoverflow
-	ippSec
-	hackersploit
-	STÖK
-	InsiderPhd
-	NeuralNine
-	NullByte
-	John Hammond
-	Reconless
-	HackHappy
-	Hacksplained
-	Computerphile
-	Hak5
+liveoverflow
+ippSec
+hackersploit
+STÖK
+InsiderPhd
+NeuralNine
+NullByte
+John Hammond
+Reconless
+HackHappy
+Hacksplained
+Computerphile
+Hak5
 ```
 
 ### Note:
