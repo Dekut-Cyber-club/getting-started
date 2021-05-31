@@ -91,42 +91,41 @@
 ```
 
 ### CTFs
+Solve capture the flag challenges here to gain some skills and experience.You can use any of these websites
+(https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
 ```
-	Solve capture the flag challenges here to gain some skills and experience
-	You can use any of these websites
-	(https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
-		bWAPP
-	    Cryptopals - Cryptographic programming challenges
-	    CTF Challenge
-	    CTF365
-	    CTFlearn
-	    CTFTime
-	    Enigma Group
-	    Game of Hacks
-		zer0ctf.com 
-		play.picoctf.org 
-		overthewire.com 
-		pentester academy or (securitytube)
+bWAPP
+Cryptopals - Cryptographic programming challenges
+CTF Challenge
+CTF365
+CTFlearn
+CTFTime
+Enigma Group
+Game of Hacks
+zer0ctf.com 
+play.picoctf.org 
+overthewire.com 
+pentester academy or (securitytube)
 ```
 ### Videos I recommend
 ```
-	Why cybersecurity is hard
-		[link](https://www.youtube.com/watch?v=vI79qT4lcfA)
-	How To Learn Hacking With CTFs
-		[link](https://www.youtube.com/watch?v=Lus7aNf2xDg)
-	Learning python
-		[link](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-	Learning C++
-		[link](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-	Learning Java
-		[link](https://www.youtube.com/watch?v=eIrMbAQSU34)
-	Learning Javascript
-		[link](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-		https://www.youtube.com/watch?v=PFmuCDHHpwk (Object oriented javascript)
-	Learning php
-		https://[link](www.youtube.com/watch?v=OK_JCtrrv-c)
-	Learning html
-		[link](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+Why cybersecurity is hard
+	[link](https://www.youtube.com/watch?v=vI79qT4lcfA)
+How To Learn Hacking With CTFs
+	[link](https://www.youtube.com/watch?v=Lus7aNf2xDg)
+Learning python
+	[link](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+Learning C++
+	[link](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+Learning Java
+	[link](https://www.youtube.com/watch?v=eIrMbAQSU34)
+Learning Javascript
+	[link](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+	https://www.youtube.com/watch?v=PFmuCDHHpwk (Object oriented javascript)
+Learning php
+	https://[link](www.youtube.com/watch?v=OK_JCtrrv-c)
+Learning html
+	[link](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 ```
 
 ### Youtube channels to follow
@@ -146,6 +145,12 @@
 	Hak5
 ```
 
-
+### Note:
+```
+Incase of any questions or issues,consult me or any official.
+Contributions are encouraged
+```
+[twitter](https://twitter.com/xubzer0)
+[github](https://twitter.com/xubzero)
 
 GOOD LUCK!!
