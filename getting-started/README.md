@@ -151,6 +151,6 @@ Incase of any questions or issues,consult me or any official.
 Contributions are encouraged
 ```
 - [MY-twitter](https://twitter.com/xubzer0)
-- [MY-github](https://twitter.com/xubzero)
+- [MY-github](https://github.com/xubzero)
 
 GOOD LUCK!!
