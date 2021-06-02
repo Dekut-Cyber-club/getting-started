@@ -94,6 +94,16 @@
 	Others will be added
 ```
 
+
+### Reverse enginnering resources and sites
+- [begin.re](https://www.begin.re)
+- [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
+- [overthewire.org](https://overthewire.org/wargames/)
+- [root-me.org](https://www.root-me.org/?lang=en)
+- [wechall.net](http://www.wechall.net/)
+- [pwnable.kr](http://pwnable.kr/)
+
+
 ### CTFs
 Solve capture the flag challenges here to gain some skills and experience.You can use any of these websites
 (https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
