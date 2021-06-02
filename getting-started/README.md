@@ -27,7 +27,7 @@
 	
 
 - Creating a bootable flash disk(Installing kali linux in flashdisk)(Beginners)<br>
-	🐧: [How To Install Kali Linux On A Flash Drive - 2020 (2021 Update In Description)](www.youtube.com/watch?v=BsuJvMkH-eE)<br>
+	🐧: [How To Install Kali Linux On A Flash Drive - 2020 (2021 Update In Description)](https://www.youtube.com/watch?v=BsuJvMkH-eE)<br>
 	🐧: [How To Install Kali Linux on USB Flash Drive | Full Guide](https://www.youtube.com/watch?v=IEAMopVfw30)<br>
 	🐧: [How To Install And Run Kali Linux](https://www.youtube.com/watch?v=pT73r1obOhI)<br>
 - Installing kali linux in a virtual machine(choose either)(Intermediate)<br>
