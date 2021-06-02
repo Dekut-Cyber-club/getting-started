@@ -9,9 +9,9 @@
 	- Dedication
 	- Lots of reading and researching
 	- Lots of practice
-    - Eagerness to dig into technical questions and examine them from all sides.
-    - Enthusiasm and a high degree of adaptability.
-    - An understanding of how systems work.
+	- Eagerness to dig into technical questions and examine them from all sides.
+	- Enthusiasm and a high degree of adaptability.
+	- An understanding of how systems work.
 
 3.The following skills are essential as far as cybersecurity training is concerned:
     Basic knowledge of operating systems: Since you will work with various operating systems, understanding architecture, and use of operating systems is paramount.
